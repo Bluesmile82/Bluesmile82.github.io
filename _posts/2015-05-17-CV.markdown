@@ -1,0 +1,95 @@
+---
+layout: default
+title: Alvaro Leal
+modal-id: cv
+tag: cv
+thumbnail: dreams-thumbnail.png
+category: cv
+permalink: /cv
+
+---
+# Junior Full-Stack Developer
+
+<div id="webaddress">
+<a href="mailto:alvarolealmb@gmail.com">alvarolealmb@gmail.com</a>
+| <a href="https://github.com/bluesmile82">My github repositories</a>
+</div>
+
+Brussels, Belgium
+
+### Specialized in
+
+Creating web apps - both back-end and front-end. 3d modelling, texturing and rigging
+
+### Looking for
+
+Projects or opportunities in startups or companies. Part-time or full-time. In Belgium or remote.
+
+### Skills
+
+Developer
+`Ruby on rails`
+`Javascript`
+`J-Query`
+`D3.js`
+`React`
+`Wordpress`
+`Css`
+`Html5`
+`Github`
+`Heroku`
+`PostgreSql`
+`Boostrap`
+`AWS S3`
+
+3d artist
+`Autodesk Maya`
+`Pixologic Zbrush`
+`Adobe Suite`
+
+### Recent experience
+
+
+
+
+### Education
+
+`2015`
+__Le Wagon__
+Full-stack bootcamp on Ruby on Rails
+
+`2013-2014`
+__Animum__
+Advanced Character Modelling Course
+
+`2002-2007`
+__USP-CEU__
+- Bachelor in Media and Communications
+
+`2000-2002`
+__Universidad Carlos III__
+- First two years of computer engineering
+
+
+### Languages
+
+`Spanish`
+__Native__
+
+`English`
+__Fluent__
+
+`French`
+__Basic__
+
+`German`
+__Basic__
+
+### Other interests
+
+<a href="https://play.spotify.com/artist/5SrybEcDitj14zk8cg8gEi">My former blues band</a>
+`Music and Blues`
+`Animation`
+`Cinema`
+`Cycling and Hiking`
+
