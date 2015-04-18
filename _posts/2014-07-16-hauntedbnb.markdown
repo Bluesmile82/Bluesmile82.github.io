@@ -9,8 +9,8 @@ img: haunted.jpg
 thumbnail: hauntedsmall.jpg
 alt: image-alt
 project-date: February 2015
-client: LeWagon
+client: <a href="http://www.hackalux.be/" target="_blank"> LeWagon </a>
 category: Web Development
-description: Prototype of a Airbnb clone of haunted hauses.
+description: Prototype of an Airbnb clone of haunted hauses.
 
 ---

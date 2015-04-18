@@ -12,6 +12,5 @@ project-date: march 2015
 client: <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
 category: Back end development
 description: Gem module to parse financial files in Belgium. Creation and implementation of the gem in the MyMicroInvest website for the payment system
-link: https://rubygems.org/gems/coda_standard
 
 ---

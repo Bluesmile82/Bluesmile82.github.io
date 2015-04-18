@@ -11,8 +11,8 @@ permalink: /cv
 # Junior Full-Stack Developer
 
 <div id="webaddress">
-<a href="mailto:alvarolealmb@gmail.com">alvarolealmb@gmail.com</a>
-| <a href="https://github.com/bluesmile82">My github repositories</a>
+<a href="mailto:alvarolealmb@gmail.com" target="_blank">alvarolealmb@gmail.com</a>
+| <a href="https://github.com/bluesmile82" target="_blank">My github repositories</a>
 </div>
 
 Brussels, Belgium
@@ -48,26 +48,56 @@ Developer
 `Adobe Suite`
 
 ### Recent experience
+{::options parse_block_html="true" /}
 
+<div id="recent_experience">
+  `march 2015 - now`
+  <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
 
+  __Junior Rails Developer (Internship)__ Brussels
+  Creating the Coda-Standard gem and implementing it in the website.
 
+  `March 2015`
+  <a href="http://trackathon.org/" target="_blank"> Trackathon </a>
+
+  __Full-Stack Developer__ Brussels
+  Development and design of the web app (currently in alpha phase).
+
+  `January 2015 - February 2015`
+  <a href="http://madenetwork.org/" target="_blank"> MADE </a>
+
+  __Web Developer__ Brussels
+  Data visualization and maps for the MADE project.
+
+  `October 2014 - December 2014`
+  <a href="http://pildorea.com/" target="_blank"> Pildorea </a>
+
+  __3d expert__ Madrid
+  Video tutorials about 3d for Pildorea.
+
+  `June 2013 - October 2014`
+  <a href="http://www.familyes.tv/" target="_blank"> Polegar medios </a>
+
+  __Media Producer__ Madrid
+  Creating content and video growth development for the Family.es multichannel.
+</div>
 
 ### Education
 
 `2015`
-__Le Wagon__
-Full-stack bootcamp on Ruby on Rails
+<a href="http://www.hackalux.be/" target="_blank">__Le Wagon__</a>
+- Full-stack bootcamp on Ruby on Rails
 
 `2013-2014`
-__Animum__
-Advanced Character Modelling Course
+<a href="http://www.animum3d.com/" target="_blank">__Animum__</a>
+- Advanced Character Modelling Course
 
 `2002-2007`
-__USP-CEU__
+<a href="http://www.uspceu.com/" target="_blank">__USP-CEU__</a>
 - Bachelor in Media and Communications
 
 `2000-2002`
-__Universidad Carlos III__
+<a href="http://www.uc3m.es/" target="_blank">__Universidad Carlos III__</a>
 - First two years of computer engineering
 
 
@@ -87,7 +117,7 @@ __Basic__
 
 ### Other interests
 
-<a href="https://play.spotify.com/artist/5SrybEcDitj14zk8cg8gEi">My former blues band</a>
+<a href="https://play.spotify.com/artist/5SrybEcDitj14zk8cg8gEi" target="_blank" >My former blues band</a>
 `Music and Blues`
 `Animation`
 `Cinema`
