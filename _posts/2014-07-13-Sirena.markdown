@@ -1,0 +1,16 @@
+---
+title: Sirena
+subtitle: 3d character creation
+tag: portfolio
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: Sirenahigh.jpg
+thumbnail: sirena.jpg
+alt: image-alt
+project-date: June 2014
+client: <a href="http://www.animum3d.com/">Animum</a>
+category: 3d art
+description: Best creature on the Animum awards of 2014. Created in 3ds max and Zbrush.
+
+---

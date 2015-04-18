@@ -1,0 +1,16 @@
+---
+title: <a href="http://www.alvaro-leal.com/d3/made-map/leaflet.html" target="_blank"> Made Map</a>
+subtitle: Webapp design
+tag: portfolio
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: made.png
+thumbnail: madesmall.png
+alt: image-alt
+project-date: December 2014
+client: MADE
+category: Web Development
+description: Map for the MADE ONG in leaflet showing the signatoires of the Stockolm agenda.
+
+---

@@ -1,0 +1,17 @@
+---
+title: <a href="http://github.com/Bluesmile82/coda_standard" target="_blank">Coda gem </a>
+subtitle: Back-end development
+tag: portfolio
+layout: default
+modal-id: 1
+date: 2015-03-31
+img: ruby.jpg
+thumbnail: ruby.jpg
+alt: image-alt
+project-date: march 2015
+client: <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
+category: Back end development
+description: Gem module to parse financial files in Belgium. Creation and implementation of the gem in the MyMicroInvest website for the payment system
+link: https://rubygems.org/gems/coda_standard
+
+---
