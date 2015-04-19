@@ -27,22 +27,38 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 
 ### Skills
 
-Developer
-`Ruby on rails`
-`Javascript`
+
+
+##### Developer
+
+<table>
+  <tr>
+    <td><code>Ruby on rails</code></td>
+    <td class="p-container"><div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">70%</div></div></td>
+  </tr>
+<tr>
+    <td><code>Javascript</code></td>
+    <td class="p-container"><div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">60%</div></div></td>
+  </tr>
+<tr>
+    <td><code>Html5 and Css</code></td>
+    <td class="p-container"><div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">70%</div></div></td>
+  </tr>
+</table>
+
+
 `J-Query`
 `D3.js`
 `React`
 `Wordpress`
-`Css`
-`Html5`
 `Github`
 `Heroku`
 `PostgreSql`
 `Boostrap`
 `AWS S3`
 
-3d artist
+##### 3d artist
+
 `Autodesk Maya`
 `Pixologic Zbrush`
 `Adobe Suite`
@@ -51,31 +67,31 @@ Developer
 {::options parse_block_html="true" /}
 
 <div id="recent_experience">
-  `march 2015 - now`
+  `March 2015 - Now` -
   <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
 
   __Junior Rails Developer (Internship)__ Brussels
   Creating the Coda-Standard gem and implementing it in the website.
 
-  `March 2015`
+  `March 2015` -
   <a href="http://trackathon.org/" target="_blank"> Trackathon </a>
 
   __Full-Stack Developer__ Brussels
   Development and design of the web app (currently in alpha phase).
 
-  `January 2015 - February 2015`
+  `January 2015 - February 2015` -
   <a href="http://madenetwork.org/" target="_blank"> MADE </a>
 
   __Web Developer__ Brussels
   Data visualization and maps for the MADE project.
 
-  `October 2014 - December 2014`
+  `October 2014 - December 2014` -
   <a href="http://pildorea.com/" target="_blank"> Pildorea </a>
 
   __3d expert__ Madrid
   Video tutorials about 3d for Pildorea.
 
-  `June 2013 - October 2014`
+  `June 2013 - October 2014` -
   <a href="http://www.familyes.tv/" target="_blank"> Polegar medios </a>
 
   __Media Producer__ Madrid

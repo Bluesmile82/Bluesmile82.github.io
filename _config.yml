@@ -8,8 +8,8 @@ description: " Hi! I’m a Full-stack Ruby on Rails developer. I live in Brussel
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503
+  primary: 74B2AD
+  secondary: 236863
   secondary-dark: 333
 
 # Team names, titles and social links

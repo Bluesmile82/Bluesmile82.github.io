@@ -18,6 +18,10 @@ body {
     color: #{{ site.color.primary }};
 }
 
+.text-white{
+  color: white;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -330,8 +334,11 @@ section {
 
 section h2.section-heading {
     margin-top: 0;
-    margin-bottom: 1em;
     font-size: 40px;
+}
+
+section h2.without-subheading{
+    margin-bottom: 1em;
 }
 
 section h3.section-subheading {
