@@ -57,7 +57,6 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 `Heroku`
 `PostgreSql`
 `AWS S3`
-`Wordpress`
 
 ##### 3d artist
 
