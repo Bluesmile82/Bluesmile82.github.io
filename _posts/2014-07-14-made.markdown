@@ -1,5 +1,5 @@
 ---
-title: <a href="http://www.alvaro-leal.com/d3/made-map/leaflet.html" target="_blank"> Made Map </a>
+title: <a href="http://www.alvaro-leal.com/d3/made-map/leaflet.html" target="_blank"> Made map </a>
 subtitle: Webapp design
 tag: portfolio
 layout: default

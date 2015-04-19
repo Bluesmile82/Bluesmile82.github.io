@@ -50,12 +50,12 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 `J-Query`
 `D3.js`
 `React`
-`Wordpress`
-`Github`
+`Boostrap`
+`Git and Github`
 `Heroku`
 `PostgreSql`
-`Boostrap`
 `AWS S3`
+`Wordpress`
 
 ##### 3d artist
 
