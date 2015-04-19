@@ -51,6 +51,8 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 `D3.js`
 `React`
 `Boostrap`
+`Erb`
+`Sass`
 `Git and Github`
 `Heroku`
 `PostgreSql`
