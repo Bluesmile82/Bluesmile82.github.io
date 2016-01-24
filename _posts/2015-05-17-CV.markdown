@@ -19,11 +19,11 @@ Brussels, Belgium
 
 #### Specialized in
 
-Creating web apps - both back-end and front-end. 3d modelling, texturing and rigging
+Creating web apps - both back-end and front-end.
 
 #### Looking for
 
-Projects or opportunities in startups or companies. Part-time or full-time. In Belgium or remote.
+Projects in startups or companies. Part-time. Remotely.
 
 ### Skills
 
@@ -45,16 +45,16 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 </table>
 
 `Rspec`
+`PostgreSql`
 `J-Query`
 `D3.js`
-`React`
-`Boostrap`
-`Erb`
+`Angular`
+`Bootstrap`
+`Slim`
 `Haml`
 `Sass`
 `Git and Github`
 `Heroku`
-`PostgreSql`
 `AWS S3`
 
 ##### 3d artist
@@ -67,7 +67,13 @@ Projects or opportunities in startups or companies. Part-time or full-time. In B
 {::options parse_block_html="true" /}
 
 <!-- <div id="recent_experience"> -->
-  `March 2015 - Now` - <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
+
+  `April 2015 - Now` - <a href="http://www.bluesquare.org/" target="_blank"> Bluesquare </a>
+
+  __Junior Rails Developer__ Brussels
+  Creating and maintaining rails web apps in production. Also full-stack projects and testing (TDD).
+
+  `March 2015 - April 2015` - <a href="https://www.mymicroinvest.com/" target="_blank"> MyMicroInvest </a>
 
   __Junior Rails Developer (Internship)__ Brussels
   Creating the Coda-Standard gem and implementing it in the website.
