@@ -8,7 +8,7 @@ category: cv
 permalink: /cv
 
 ---
-# Junior Full-Stack Developer
+# Full-Stack Developer
 
 <div id="webaddress">
 <a href="mailto:alvarolealmb@gmail.com" target="_blank">alvarolealmb@gmail.com</a>
