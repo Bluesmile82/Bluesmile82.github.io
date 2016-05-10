@@ -3,13 +3,14 @@ title: <a href="http://wallonia-timemachine.herokuapp.com/" target="_blank"> Wal
 subtitle: Website Development
 tag: portfolio
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-15
 img: wallonia.png
 thumbnail: walloniasmall.png
 alt: image-alt
 project-date: April 2015
 client: <a href="http://www.hackalux.be/" target="_blank"> Hackalux </a>
+project: <a href="http://wallonia-timemachine.herokuapp.com/" target="_blank"> Wallonia Time Machine </a>
 category: Web
 description: Winner of the price in the 2015 Hackalux in Libramont(Belgium). App to inspect the cultural heritage of a certain region.
 

@@ -3,7 +3,7 @@ title: <a href="http://www.alvaro-leal.com/d3/made-map/leaflet.html" target="_bl
 subtitle: Webapp design
 tag: portfolio
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2014-07-14
 img: made.png
 thumbnail: madesmall.png

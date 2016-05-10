@@ -3,7 +3,7 @@ title: Sirena
 subtitle: 3d character creation
 tag: portfolio
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2014-07-15
 img: Sirenahigh.jpg
 thumbnail: sirena.jpg
